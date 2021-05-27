@@ -1,0 +1,16 @@
+{
+  "name": "JustRead4U-vp",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/ahviplc/JustRead4U-vp.git",
+  "author": "LC <ahlc@sina.cn>",
+  "scripts": {
+    "dev": "vuepress dev ./docs",
+    "build": "vuepress build ./docs",
+    "deploy": "sh build/deploy.sh"
+  },
+  "license": "MIT",
+  "devDependencies": {
+    "vuepress": "^1.8.2"
+  }
+}
