@@ -31,7 +31,8 @@ module.exports = {
         sidebar: [
           ['/zh/docs/a-1备战面试', '备战面试'],
           ['/zh/docs/b-1面试题总结-Java基础', '面试题总结-Java基础'],
-          ['/zh/docs/d-1Docker常用命令速查手册和部署环境', 'Docker常用命令速查手册和部署环境']
+          ['/zh/docs/d-1Docker常用命令速查手册和部署环境', 'Docker常用命令速查手册和部署环境'],
+          ['/zh/docs/d-2使用docker compose快速的一键安装超多开发中间件', '使用docker compose快速的一键安装超多开发中间件']
         ],
         nav: [
           { text: 'how-to-use-docsify', link: '/zh/docs/x-1how-to-use-docsify' },
